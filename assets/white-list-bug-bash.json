@@ -7,7 +7,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x70742f679488fa86f4c829dc6fa077159908dec1f7cf06f1d81beae3e9261b67543a94693524b4981e03b9e5998269e86bc2eeb03d32f7da33b32f6255c096991b"
+        "proof": "0x48078fbee734140cac996c53ae6e9cff2cf4b2c0483a77fb104ad2c4b06289333f8bc2e1e7f39ec585a1d77285e9df3a987892acb6aac9f346547f1dafcb0e541c"
     },
     {
         "phase_id": 0,
@@ -17,7 +17,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xf5591819442734f095905b9bb2508d9d4a80ed0a9d81cd82f14cd97a4b7bc4ec2dcab12255363efde5c7445e00fceba76106b4788948689e26a1d1a9f028b4d21c"
+        "proof": "0xd23643697c3804b2ee2937f3202401a2a32c379cb90ae4e88a0574a57880e52e2fce6ecc31669e09de45748057aaad168f2180b51c5ef38e0f2198797fc297e51c"
     },
     {
         "phase_id": 0,
@@ -27,7 +27,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xf227817dbb3c7c8ff6844f6958be3c23092d00f2b0a6b035ac96476682b6419c591bc5435908418a2d8794a259171381031bfe6b8cbd3ae429a70ea8ae49a1fc1c"
+        "proof": "0xbdeef7c724d1a1139781382dc53c1ccc4b67970964b2b65e98bd04098e0fea410184001ff8b4eb7a857be154c5eb3cfb5c1d75f2288d9813ecd04e9d55db9a121b"
     },
     {
         "phase_id": 0,
@@ -37,7 +37,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x3f2938d924dce05c71bd7d0f7a335c66fc62d42984c6048879a07d8f7ea87b452d3f0ed4e9f42ea5693da88df7fd0fea0310659da1d4b55cbc4bccddc867004d1c"
+        "proof": "0x1d9729fce6fe5cca085138da4b7ec44c616a04097924b30bae444a6765ba54397f48d6374e14622a42c1ced61a072b4a1f87d6b5df17af7c23ca553afe0ee3eb1b"
     },
     {
         "phase_id": 0,
@@ -47,7 +47,7 @@
             "value": 0.015,
             "currency": "ETH"
         },
-        "proof": "0x4f97b4dd981d250d8715de327229db777a4bba7206e900bf78ea67ffd016495949667a83b254da755ff48851d27363c478c0785e05e1282abb0ec19dd41027221b"
+        "proof": "0x96ec4c7e14efeee2a5bd102805f2a5fa7b2f078b9aaef928d03c135ebc310d255c2694fee6aa62099f5d84795f13d360074cf47a2635dcb78cc76896a99f17341b"
     },
     {
         "phase_id": 0,
@@ -57,7 +57,7 @@
             "value": 0.005,
             "currency": "ETH"
         },
-        "proof": "0x271691b5a1cf0f7a28072c8eef4512645816cada4175a898905d89130d4f26dc4a1fca9a9ad02d0a38929fe26c767e9b4060e1f9fbd76e0606178e53ec0aa3bb1b"
+        "proof": "0x13fb317e82e4aa33e1664080e7ff4283aded34d2e97b4468190102de632c87c54c64a0ff023e17f360d59112d00c4b11de5d4684c69d3b428c9f39dbb814109e1b"
     },
     {
         "phase_id": 0,
@@ -67,7 +67,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x633559f3db7626c86beca0d78d083d1f2a8680c32ec8f8d154778c9cc4b7c9456ce12d117872d00ae75c28178d764886f7d6c3de43fc42ee8e0fa136bafb73731b"
+        "proof": "0xdb6e298ec6fbd8bc5886f798300325561987d385d7095ba94cf8a2ef751e92fd36d0de4b3d89355825366c8557b7d03976b302660ee6d6c5b44d0fec9ee5a8b11b"
     },
     {
         "phase_id": 0,
@@ -77,7 +77,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xd3922b54e9872965b51315a94c477fef29a550328c6608bad381e3af14cea1fa0c26f0a0df5870eefb3947f3a5ad5f63ce4c2c62adac1dcb521eb955daeab5cf1b"
+        "proof": "0x994458cd0008ce0fc85587b5492802c855dc7d27ac5ee839381d89c01ab4318d6daceba1ea03927a15a413cc71b4d1fd5d205d506887844f9e0b5fe46bc6ed921b"
     },
     {
         "phase_id": 0,
@@ -87,7 +87,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xf0c8537da908c7b0268c171cd63d71d22fea3dee13d7ae190d4bafd285d2efa934c690aa9e11785f53cdae601a8b191549e3c70b3f5ba0603338e17e5d3fcdeb1b"
+        "proof": "0xb5ca421b2732043f4a9a25cffb5da110a428e04d8e6440527ff05a089df958ca2bf94ea336d2c639a42e4f504e7b4c2bc84594229a7ad061ad0e4a5b15dcc5f41b"
     },
     {
         "phase_id": 0,
@@ -97,7 +97,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x51213bee17d7929a8724611f1325db4b9eaa47330a9eb290d0289dbc3658775f69fcc553d4f42dc3bb672c1a5b9fc6057caaedb76b4d17756a5ceae470ffbd671c"
+        "proof": "0x4b64c336d664cc26d59dc3f569189821a110ab8c7546e5a5c71af4647741c28b41205ef4b1c58c171882c1101eaa610300d212a7b3e8584c4ff67520368552791c"
     },
     {
         "phase_id": 0,
@@ -107,7 +107,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x94e16c792c4e4b42b9690291272436de5306ee6a9b8f4da9015d6780d5c680c912adde9ebead3c1f7fa9bcff373549ceecaa7f0fc0bef3d06971ce69fc8bd7b21c"
+        "proof": "0xd82b0e636f6faef6f7e52d2230e6c29d023d5e7cd2c21339b665f8c58876a82c57a782af6d94924d34058ba900cb825284216cb45815b7ae0a4f19b503cb0cac1c"
     },
     {
         "phase_id": 0,
@@ -117,7 +117,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xb0de60ed17781e653988bfac28278f10acdb6e79b1687a5220b98df5a907bd3e49862ea4c3d87e1145d67d490cf8c313ba3693d6d67b9589166c490f80a05ce51c"
+        "proof": "0x7e7c51e892dc1e1e8c8dbc47ee77048f6b959614bdef9882d9e8fa40542c536d773f47807334788c2676cad77d82c0f199c13fdb289fa094bf276beccbb24f681c"
     },
     {
         "phase_id": 0,
@@ -127,7 +127,7 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0x81f8127de8a99813a6aa738939e6485d15a9c48075964f96c5c7bf9f271b9b2a37fdeac9ed8baaaf096011abdb80dc9831bfd4cd3c2f4842fd69a046aa75fd731c"
+        "proof": "0x432cf26cffd57dadef346ee15a381580c1b3ecc733848424662b99b8ac03be134d9cca6f10a1d2b09db287139601291da8cb10a0e99bb7a8e65774707a097f7e1b"
     },
     {
         "phase_id": 0,
@@ -137,6 +137,6 @@
             "value": 0.025,
             "currency": "ETH"
         },
-        "proof": "0xd2e757c14e2298e4897250f6708a3144eb4d5574eb5d0a4e1ffdc53e1160e7193311735b7050f1702a5267d50dea08bee417b28f0f8e9c68bd5aee7af72525b71c"
+        "proof": "0x26dfefc8fe5c7d304c4a7266e80b3c5a010f8589ffe62a4a5573650f49696e302353ee12fdcd4eef84374ffb8faedd7bc55eec9c240a45386f4cefacd9d4a0061b"
     }
 ]
