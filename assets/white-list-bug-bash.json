@@ -158,5 +158,15 @@
             "currency": "ETH"
         },
         "proof": "0xc46aac15b5bbc9401ebfaa07f9db7ef0f1480d90041879e63dfcac87f6d99d8262dfe2737a4bc2017674a1643cf58b58cf3920034df9d5c2d014b93317b1fa831c"
+    },
+    {
+        "phase_id": 0,
+        "address": "0x1827F23eED0861B7ebC51325027D17988003d980",
+        "allocation": 25,
+        "price": {
+            "value": 0.0027,
+            "currency": "ETH"
+        },
+        "proof": "0x2023563e385b1e6a942c0000bd65d8d689f88cd988863e25426d487c7c469a237cb37dd92e14538cb3aa8915ea81416eee203912f4594cedd6e948577a4bd8791b"
     }
 ]
