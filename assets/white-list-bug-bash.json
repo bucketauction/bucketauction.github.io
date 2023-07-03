@@ -42,12 +42,12 @@
     {
         "phase_id": 0,
         "address": "0x074b44982e3E321013A7b49E95710072859e1e1d",
-        "allocation": 5,
+        "allocation": 15,
         "price": {
             "value": 0.015,
             "currency": "ETH"
         },
-        "proof": "0x96ec4c7e14efeee2a5bd102805f2a5fa7b2f078b9aaef928d03c135ebc310d255c2694fee6aa62099f5d84795f13d360074cf47a2635dcb78cc76896a99f17341b"
+        "proof": "0x1428c2b24d4aa593122498165cddd5bc2a8edfd6fb9c38a07406507fbf5f8de1106cdd4bd45b96beca3c6be99ed300f28157de5523ca93026298d837860aa7aa1c"
     },
     {
         "phase_id": 0,
