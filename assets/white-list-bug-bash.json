@@ -10,6 +10,36 @@
         "proof": "0x48078fbee734140cac996c53ae6e9cff2cf4b2c0483a77fb104ad2c4b06289333f8bc2e1e7f39ec585a1d77285e9df3a987892acb6aac9f346547f1dafcb0e541c"
     },
     {
+        "phase_id": 1,
+        "address": "0xD22A8494A9d5e77025Ca155C7c982b0e16A81D66",
+        "allocation": 10,
+        "price": {
+            "value": 0.011,
+            "currency": "ETH"
+        },
+        "proof": "0xbf045af22e9d3a36ff0c696f66bb314f2bbd3bbb0a57cf00a97238fb3666df906092ea742a5f1c80901f5b8dffffc1aa8a9eb264a34d1ba9996ae9ee25f425e71c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xD22A8494A9d5e77025Ca155C7c982b0e16A81D66",
+        "allocation": 20,
+        "price": {
+            "value": 0.022,
+            "currency": "ETH"
+        },
+        "proof": "0x4082045b6ea0096169c24dce4cac5764e025ca2fa6b36070eb8fd0ae33aa224c677a0f3f2907ac9f3c35010cc211c6a754cb5c5c689e3704120e910d9e4d61db1c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xD22A8494A9d5e77025Ca155C7c982b0e16A81D66",
+        "allocation": 30,
+        "price": {
+            "value": 0.033,
+            "currency": "ETH"
+        },
+        "proof": "0x6d4f46d75da7b81ceb7972156911ec1f699177b8dd955a3378e77591ed6cd8787178dff8590a94cd6a4f65dc32adf3ca515bac84aee21166a10d58e506b9e5191b"
+    },
+    {
         "phase_id": 0,
         "address": "0xD7E8517Baade8AA89D21D827DAd9bF4A0b2Af426",
         "allocation": 25,
@@ -168,5 +198,485 @@
             "currency": "ETH"
         },
         "proof": "0x2023563e385b1e6a942c0000bd65d8d689f88cd988863e25426d487c7c469a237cb37dd92e14538cb3aa8915ea81416eee203912f4594cedd6e948577a4bd8791b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0xD7E8517Baade8AA89D21D827DAd9bF4A0b2Af426",
+        "allocation": 25,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x3472799b94bc28e7820a3515b96fc502382a200be05241f663a7e1bc0dc9188a617e2d475a37100dfb3ddaabf94e9c37044f7bddcfff5d503b145eeea843dd901c"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x669aB75fa9cF1F9Eafb32160A221aCC1118A4bc0",
+        "allocation": 30,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xb756bdc3f468444a2861f295f23dc414eb5fc8ec042c1871a9af2d2b2f7e7ef84373d1aa4c071282e5f1fbf456071b820c93d88546a78ea92bc8e082aa6be5aa1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x5b04Bd4CF6ac8F976a1d578b7156206b781ca861",
+        "allocation": 16,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x1e10aa1ca1abad06b49c892497e01048e8420029cf6a672174d27d1c5e3d1e65394a91c773c12b0ce15ac9a42ab83ae804bb006e1c5d1cdf7b1586681bafa64f1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x074b44982e3E321013A7b49E95710072859e1e1d",
+        "allocation": 15,
+        "price": {
+            "value": 0.015,
+            "currency": "ETH"
+        },
+        "proof": "0x7d04eb338591a323842f0e0541d3cb9669b4ac008fefb9960e9a234f71d7678814a974eed246651b46610e56c3e1af0321237ead581e118971937ac9a2d31a1b1c"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x9879c97a8b40f0bd792Ec0830F5a4225F2c49c1A",
+        "allocation": 5,
+        "price": {
+            "value": 0.005,
+            "currency": "ETH"
+        },
+        "proof": "0x6fd41620bf567db08642ac57deb631a5288ec78416f30a680c8272c7043edc783fc9047d6581e28bef0063da267a314b921271fb89c2b668dc0e9890de85c8c91b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0xE0998C6870177FB64178ACA9dF4703ff9D6bE5eB",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x3afe54952304564f6644a3e1c5326f230bc91f13fc5d027dee01c74b62ff1bd4698bed6a5b807223de409783e41283c2a25366c25cd1ee94edb681e15d67381d1c"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x5fbD57f909302DC3eD640b6243FC319760681592",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x1bb207d9b85b64ce61310b2ac596ec77df7650e4a019dc4bf68d8c0eda9cd4162096647313a27288e7d9c5ab2b359792c42c5e5364f4a463941ca8b0902c57361b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0xA0cA16dbE5d22Bd6edA687F1236Cb4837DCc3D32",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x8c5590d6d22fc8e4a1bfe1c3502bbdb8542267807ec7b5d22524871823cc061734bf807770297f71f038e9b9b2a8e23259de7d3cc97d55a3375edc0fb8490a5a1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x2942134e3757B9449dbF6a19f5AD0922CcCf46e4",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x325a45d18c84cd79ef91816c0f79bc30d03ad01599d0c6ec9421f9e3c6e6d5187792036233bd5ea48eab541fc92b93d8d251af492e063c77ceb1026686bb266a1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x5b36a22551eaBf00902A10F2C6659a6b95dA9fe8",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x361f59390e86b4437042a3f86b09c6983bf6ec0ac1427cfedf7a1d6fed9675f8414966ce8ffb756682963b3230719559cdf68c43bfe588344f724571612184451b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x02d3Fb3FB8C2309EE8EDc450dFe2518D9DABCb45",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x771a8f5a0e017db5c4e07d67ed11b98271fef9528f670f418a2aa25aaf5cb59e45aa8bd57a8ae5ce6c0936725d50a7f064c4ac7694fd7cc6dd76fc473fa31a8a1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x7Aa7ce4A1Ddd38E1F87498959E164b6E1607BC5D",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xa91017534a05e99093835841aa7e38a6dfd4a823149fc9092fe75e3c5fcc4d5e6cf7a306b479e43a71c30c3e2359292003dd87ef0e2b551209702c7efd4f26311b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0xac84Eb7001BD4983D58421B072379717aC1fEe4f",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x071837391b3dde196dfa1a0a3557eb4e121adc50f5cd3ab15f1fb65743d25a8b46ad198e88ce56ed3965bce231ea30442b6ccf6340630c84738f20731d657cfb1c"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x2e99195724D0B228884be3B44cbD6053DA9b813e",
+        "allocation": 10,
+        "price": {
+            "value": 0.0015,
+            "currency": "ETH"
+        },
+        "proof": "0x04858a1c1bea1a8ddae65602a3d3aa7915754102279c8c2205bd8bfdf9648e7656ac1c3c4303e14fb48b1a6c3982e3d588cd6ed56d1ad38431ce35db57259c591c"
+    },
+    {
+        "phase_id": 1,
+        "address": "0xD785f783e24f71F7FA49dc2933C17bb20954548d",
+        "allocation": 21,
+        "price": {
+            "value": 0.0021,
+            "currency": "ETH"
+        },
+        "proof": "0x726e05928f46e6121fa28ff2e8de05f76db03998265e77dc082fa83b84cd0bae071c3ae0cac009a3cf65912bb0b1304989efb3f9eb3e8dcb15e19e73dc05270c1b"
+    },
+    {
+        "phase_id": 1,
+        "address": "0x1827F23eED0861B7ebC51325027D17988003d980",
+        "allocation": 25,
+        "price": {
+            "value": 0.0027,
+            "currency": "ETH"
+        },
+        "proof": "0x65ebd348714261440768b5daf021e79d932a9cee3e1ad7c5dc2b15c830217bc06eb9aa27c7eb571059f0d9818dc6884cf2eba27945f670f47da46920b80e36df1c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xD7E8517Baade8AA89D21D827DAd9bF4A0b2Af426",
+        "allocation": 25,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xb47e6e424a79b4be706710d0b675f402175ffc2fc336aae97f5baea5f4e4e1c05d94fbfb7955921ca33d57ee25f6c93f9d8b0251dd56566bb99a64f742c68ef11b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x669aB75fa9cF1F9Eafb32160A221aCC1118A4bc0",
+        "allocation": 30,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x39de4759d1600ea4579afa37b1259b62fc784d3481765ac41165ede6c896cbb179ca0807916fc6147f70d92e43f196720970f8f651fa80b0b664cd5bfcf4f0c61c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x5b04Bd4CF6ac8F976a1d578b7156206b781ca861",
+        "allocation": 16,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xe308cf61e8dfb540a0c268b2590421257096742f43c41cc686cd463a06a510d92bd05667c5accbc5e2716387a2a91764f8b211f3db74cd964ebad7109702ebc01c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x074b44982e3E321013A7b49E95710072859e1e1d",
+        "allocation": 15,
+        "price": {
+            "value": 0.015,
+            "currency": "ETH"
+        },
+        "proof": "0x4fcb06e3802ea77ee507a4e28ce04ebcd1c3b95f9fa79b92489d8f7093b120f807c87fa197983be0ea5df4c865e5b5a99ced0ad21011c3574a81768420f0f70a1b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x9879c97a8b40f0bd792Ec0830F5a4225F2c49c1A",
+        "allocation": 5,
+        "price": {
+            "value": 0.005,
+            "currency": "ETH"
+        },
+        "proof": "0x9b5f25e6d05de22fce334749eedcaa2ef3cbb4631c47beba85050682323e93fa1a237f02f27d0536b1dc00e2d3a600e30008e091792b82b1babbef65adb76b061c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xE0998C6870177FB64178ACA9dF4703ff9D6bE5eB",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x5fb342eadf8d17ee960f46c2e9e84466f5906b8e302ac62e826b31e7425231f03aa68e14b65b8c0e4c8f7cf28fbc59f87e7f44cd6c4fa20646acba0ec68fd7721b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x5fbD57f909302DC3eD640b6243FC319760681592",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x327bc29f1464a0efcbb3b43b3b652f3a96d65fd9305f95446c0b70076825fffc28fc52da94880b713516ad27c8c246dd070f6fe49313d394219e5b6a28bc3e7a1c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xA0cA16dbE5d22Bd6edA687F1236Cb4837DCc3D32",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x915aaac9bbf9e8247e7ca97d057489f365157f630472413584afe87effad8e494017317991024e2b8c935b44c5d914872e4b5034d5fce21fe803de24f578d6171b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x2942134e3757B9449dbF6a19f5AD0922CcCf46e4",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x2f1c0b75aab524c64d4921362045583192e5c0f40b029380ae3e9c999f4196d676f517aabeb938caa76d79b70bbc3a7e4ae1b8bc4f7683fa72b742fad09539dc1c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x5b36a22551eaBf00902A10F2C6659a6b95dA9fe8",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xb1c6593839a8f60cf09b49bf20908c14a6e75fdc80927a152de9707600fa7c7c61ecfa349342e6c0acd3b927b14cb51a55e429061b52b4460afc7d37193eb2841c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x02d3Fb3FB8C2309EE8EDc450dFe2518D9DABCb45",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x7cf125e16d6be0e84ab36f2617eea8da4e0b6587677f88e411396ca8cd293efd5f686582566bfde56325dbd9ffabc87418940918d29a7d7bf8efecf24d3acf681b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x7Aa7ce4A1Ddd38E1F87498959E164b6E1607BC5D",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xba338685e9119116d9cede6fd21fd5a3fdb94dd1c9572e399648f3294d296a304ca0ada609fbad9a5985b069ed883e6874a476702927fb6327671d72bca7cc291b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xac84Eb7001BD4983D58421B072379717aC1fEe4f",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xa7ad43c5ffb7e89359cc1903a88b18b0cb919abb4779f2ab1d3d6058d56287122f3d2ad2e69bbc0a3894d39a1df5ba216efc51eba7675f509f3ca78340d0884b1c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x2e99195724D0B228884be3B44cbD6053DA9b813e",
+        "allocation": 10,
+        "price": {
+            "value": 0.0015,
+            "currency": "ETH"
+        },
+        "proof": "0xea475d0e3288ad775e9e9e9cb9a7b31a1e03e43951b3c538b54513f0edf34b8613fbff79d19b06f7e834a7833ac080705ec210d76b784e41616c8128250c182f1c"
+    },
+    {
+        "phase_id": 2,
+        "address": "0xD785f783e24f71F7FA49dc2933C17bb20954548d",
+        "allocation": 21,
+        "price": {
+            "value": 0.0021,
+            "currency": "ETH"
+        },
+        "proof": "0x275fa862d5d892b80eb5f3b7c8f1266f1396097c1c019671fb44bbb75fe693186e2bbd203aa68ba4cf1b4be301805cc2e4f375e0185ee1eeee3b71ee82d0cfaa1b"
+    },
+    {
+        "phase_id": 2,
+        "address": "0x1827F23eED0861B7ebC51325027D17988003d980",
+        "allocation": 25,
+        "price": {
+            "value": 0.0027,
+            "currency": "ETH"
+        },
+        "proof": "0xeffb2afc4bd5900f57ef27c4216d3fa48cc47e5c2ba68c57170828669ce8ef8433aabfc4874f48e7ac6cd757c56f1a216e9187721163926793f9a3b3bc49356b1c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xD7E8517Baade8AA89D21D827DAd9bF4A0b2Af426",
+        "allocation": 25,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x35a716207090e289103c5295b8b9573ffdf35584c5a59d1b193cc36fe3c1458d1db7b26c7efe00b8bc929bc2a9c567d4ef1b364226e4ec82aa83b72c3b885f0f1b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x669aB75fa9cF1F9Eafb32160A221aCC1118A4bc0",
+        "allocation": 30,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x60d9191f74f37baa021e64f4811cd7c4e5ff2042bcfce051d552cece431b74be0c0c459fdd510563d495eaa7487ad441b7f4ca8f5d6931a5e1a91dc5a28f11561c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x5b04Bd4CF6ac8F976a1d578b7156206b781ca861",
+        "allocation": 16,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xd0025324ac572435a3206a4e49b6ef1ac5916ccc3715a0f4c89beacbb6276c617e4549ee15e2442f7dd5c459dc08171d7bbae8066777c39c7147b8e7bde794441c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x074b44982e3E321013A7b49E95710072859e1e1d",
+        "allocation": 15,
+        "price": {
+            "value": 0.015,
+            "currency": "ETH"
+        },
+        "proof": "0x6faa077600050bfbc44d0cbf4c1e0bd63711a019fac2d34059927156e099685d28fd27ed0f0a83d014583f655900b33cbfc06a1fec511865077cee89b8f3e2f81b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x9879c97a8b40f0bd792Ec0830F5a4225F2c49c1A",
+        "allocation": 5,
+        "price": {
+            "value": 0.005,
+            "currency": "ETH"
+        },
+        "proof": "0x19c55c2e9bb41f8c32a74099098ee4f4f9bd2d7dce651ab15f0b860779a77a0d4810a85aa9fa3da40daa1d61719f725cbb5693cc4beb632389d9a36a1847bb3c1b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xE0998C6870177FB64178ACA9dF4703ff9D6bE5eB",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x2fc33e930bd93478fc246470ddae98b42987cd7a31bb4832a8cc9819667225816910e4b406ab750465bdccd9e0c3fe660bc838503893af69ed75549b30887f7f1c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x5fbD57f909302DC3eD640b6243FC319760681592",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x80f1876ff730262273928b3d6b7af35e96ccde8809d9fe303787aa2a72594f3127445ea2b2051f41385b9499332b3de7743065fc22dae71c5f61e030c30d7c8b1b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xA0cA16dbE5d22Bd6edA687F1236Cb4837DCc3D32",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x2617dab102b2586df5e88eb5dcd60d35ec923bd201234f7f22189e5288de7a9c3d5ca22ba282308f75d289437aef9398f08cf107f1b4fad8c2850f16b10902f41c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x2942134e3757B9449dbF6a19f5AD0922CcCf46e4",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xb62f761a1f579870f0ab25cd1632ad59ab4e7cc95ec1e4c99fc03588bab30d072f46a19cca108aa54a9d24096b3e53e6402acb13dcaaf421f65c9be70787d4591c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x5b36a22551eaBf00902A10F2C6659a6b95dA9fe8",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xd8aee5a0aceb89db433c5107fa97942c16dc297d84257fe7b2aef6388bbe82d13e1912efb6103e958d2c4e1d4d0b9580e0cb668542c75e3ea04723574870a9661c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x02d3Fb3FB8C2309EE8EDc450dFe2518D9DABCb45",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0xc14af4fcf29bb0383a19303db6a8c4a4c523d3913ecb509b1bbe21a4c831819038db492343a85bc0fd6d8e96dfe59a4f0d8378fb9600c143738031853b9fb0871c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x7Aa7ce4A1Ddd38E1F87498959E164b6E1607BC5D",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x16b7282fbd05e1fc675734a39e1efcee9f667e393f1c0d4ea34a9622ff13ddeb4d625dd0cabe5e0da2a4eaa23b3789dfd36dabe0537d18376db5f37f06b2d9e21b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xac84Eb7001BD4983D58421B072379717aC1fEe4f",
+        "allocation": 5,
+        "price": {
+            "value": 0.025,
+            "currency": "ETH"
+        },
+        "proof": "0x50e82e6c20271064a60314f0235e8adf7be1b27c99f2d6a0cc92307a1956ec7f727e5f95de552285226caf3bdd57fb45ac1648f81bda5ebe13cffd77ff4804e81b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x2e99195724D0B228884be3B44cbD6053DA9b813e",
+        "allocation": 10,
+        "price": {
+            "value": 0.0015,
+            "currency": "ETH"
+        },
+        "proof": "0xca31cb0f13db060b38ed02b6d08b06b2815d40c7addb73e9546a1f28d4414c553977265dde51b969ed44cacb7b10ca2e5de8ad688c0d8dcfa4293cb1325eacf51c"
+    },
+    {
+        "phase_id": 3,
+        "address": "0xD785f783e24f71F7FA49dc2933C17bb20954548d",
+        "allocation": 21,
+        "price": {
+            "value": 0.0021,
+            "currency": "ETH"
+        },
+        "proof": "0xa80cd9c59ea08c3e5bf8e05fb9d87221296257a2e1b7d6289279b6d1f2381a4308878f109cb62157bfea98c5280d177f2020372c35b249cbb924076f6012c76e1b"
+    },
+    {
+        "phase_id": 3,
+        "address": "0x1827F23eED0861B7ebC51325027D17988003d980",
+        "allocation": 25,
+        "price": {
+            "value": 0.0027,
+            "currency": "ETH"
+        },
+        "proof": "0xdcfeee3354bbaa1c629600f3ae3290d8946e72acd337bf3695f0f52254483cde3b4dbb9691dc6c48fe7fdc81eb99e2208148aaeb008409a6b968d1b1478f59f61b"
     }
 ]
