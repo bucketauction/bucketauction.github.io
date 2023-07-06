@@ -1,6 +1,76 @@
 [
   {
     "phase_id": 1,
+    "address": "0x5b04bd4cf6ac8f976a1d578b7156206b781ca861",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0x90eedad72690199d006d88ac4793d4af3357de023836b9e63b775771e98162a33efe86e72a2f8467bb2c79e686e9713b66e83e8c42d8d804b2c03058721d485e1c"
+  },
+  {
+    "phase_id": 1,
+    "address": "0x9879c97a8b40f0bd792ec0830f5a4225f2c49c1a",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0x3c180742de1fcd751c962f325484145493a8e0424f2bb12fc2024475e5d3b2f9279ca0625828357a6148afcb522a544995b3bc1339cfe5bcd917a58e4839f6361c"
+  },
+  {
+    "phase_id": 1,
+    "address": "0xe0998c6870177fb64178aca9df4703ff9d6be5eb",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0x4e563727dfb056b2d0bd2241a234d06fdfbef5bc71a584f7200538e0a3a15bfd79e72b3f488ab9920b0c65e61124512ad36b8dd691d570a41c0dbd1e1625b7ec1c"
+  },
+  {
+    "phase_id": 1,
+    "address": "0x5fbd57f909302dc3ed640b6243fc319760681592",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0xb8d7d2025afef9efba3cb659e9ca4a04cca73975c4c3a99b931a5ec3fc39627472605cbc3ff3314551a3c4343b58293867874092964ea640ab44a3bea0b1d9ee1b"
+  },
+  {
+    "phase_id": 1,
+    "address": "0x074b44982e3e321013a7b49e95710072859e1e1d",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0xa27514f2a19fe55a5c1d9a01f95bf688f82adafe3d53bf678cbdfbb25f70c3eb17fabfceb0356f93c9fcf48f7ccd2e8c6612881265dc48171ffb1a83f1cd441f1b"
+  },
+  {
+    "phase_id": 1,
+    "address": "0x3a8b42d45a312e3197804630d819bfdd48ac1897",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0xe65cdb1bf64b65d38d91e6d0afeef0041224f67b83c1ce07eb8aff97acc24a826a4afbd03a70fe616ee036757cfa54f8966163eaa88dc91afd69fe573b92821f1b"
+  },
+  {
+    "phase_id": 1,
+    "address": "0xac84eb7001bd4983d58421b072379717ac1fee4f",
+    "allocation": 1,
+    "price": {
+      "value": 0.001,
+      "currency": "ETH"
+    },
+    "proof": "0x79a3e7887e78f37df2d75d2bbc9cc9f4ec775a62c6fe1df0f8c71c96c5916128197b083d4e489a5a58e0847288c12a726f9eee0120755b60cb7c3fe8e9d714ed1c"
+  },
+  {
+    "phase_id": 1,
     "address": "0xb434b6a4403ee92b0728c0d1cb19855db406af30",
     "allocation": 4,
     "price": {
